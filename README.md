@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Adil, a MSc Computer Engineering student currently in my 4th year.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adilius)]
+
+- 🔭 Currently participating in Advent of Code 2020
 
 <!--
 **Adilius/adilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
