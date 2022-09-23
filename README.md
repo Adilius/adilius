@@ -15,7 +15,7 @@
 
 <h3 align="left">Backburner projects 🛋️</h3>
 
-[🧠 Flask website to determine your DiSC personality](http://www.fourpersonalityquiz.com/)
+[🧠 Flask website to determine your DiSC personality](https://fourpersonalityquiz.herokuapp.com/)
 
 <h3 align="left">Previous interesting projects 📜</h3>
 
