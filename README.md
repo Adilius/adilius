@@ -1,11 +1,13 @@
 <h1 align="center">Hello there 👋</h1>
 <h4 align="center">I'm Adil, currently taking my MSc Computer Science degree</h4>
 
-<!---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adilius&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true" alt="drawing" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilius&layout=compact&langs_count=8" alt="drawing" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilius&show_icons=true&include_all_commits=true&theme=buefy&hide_rank=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilius&layout=compact&theme=buefy&langs_count=8"/>
+
 </div>
--->
+
 
 
 <h3 align="left">Current projects 📍</h3>
