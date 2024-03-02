@@ -1,6 +1,4 @@
 <h1 align="center">Hello there 👋</h1>
-<h4 align="center">I'm Adil, currently taking my MSc Computer Science degree</h4>
-
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilius&show_icons=true&include_all_commits=true&theme=buefy&hide_rank=true"/>
