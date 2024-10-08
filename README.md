@@ -1,7 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilius&show_icons=true&include_all_commits=true&theme=buefy&hide_rank=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilius&layout=compact&theme=buefy&langs_count=8"/>
 
 </div>
